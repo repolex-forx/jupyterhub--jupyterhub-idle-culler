@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/jupyterhub-idle-culler/commit/0b92132cf9a1ba5f5c425c790e44246b2dfbfe52",
       "git:hexsha": "0b92132cf9a1ba5f5c425c790e44246b2dfbfe52",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/jupyterhub-idle-culler/commit/596097c2f9eff1e78909d42808370db36132ecfd",
