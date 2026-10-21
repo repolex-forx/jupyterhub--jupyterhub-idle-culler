@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "jupyterhub-idle-culler",
+  "versions": [
+    {
+      "commit": "0b92132cf9a1ba5f5c425c790e44246b2dfbfe52",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:11:25.360274+00:00"
+    }
+  ]
+}
